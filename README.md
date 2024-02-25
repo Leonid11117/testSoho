@@ -1,9 +1,9 @@
 ##  Реализация проекта:
-Использовал админ панель [Orchid](https://orchid.software/ru/docs/)
-Выполнил CRUD для Book - App/Orchid/Screens/Author/AuthorEditScreen
-Выполнил CRUD для Author - App/Orchid/Screens/Book/BookEditScreen
-Выполинл валидацию для Book и Author - app/Http/Requests.
-Выполнил фильтрацию книг по названию, автору и цене - App/Orchid/Layouts/Book/BookListLayout. Можно проверить по API(http://localhost:8001/admin/books/list), после развёртывания.
+- Использовал админ панель [Orchid](https://orchid.software/ru/docs/)
+- Выполнил CRUD для Book - App/Orchid/Screens/Author/AuthorEditScreen
+- Выполнил CRUD для Author - App/Orchid/Screens/Book/BookEditScreen
+- Выполинл валидацию для Book и Author - app/Http/Requests.
+- Выполнил фильтрацию книг по названию, автору и цене - App/Orchid/Layouts/Book/BookListLayout. Можно проверить по API(http://localhost:8001/admin/books/list), после развёртывания.
 
 ## Для развёртывания:
 1. Клонирование репозитория
